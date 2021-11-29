@@ -8,6 +8,7 @@ export const LogoImageContainer = styled.div`
   }
   img {
     margin: 0;
+    max-height:38px;
   }
 `;
 const MainWrapper = styled.section`
