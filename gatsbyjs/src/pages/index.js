@@ -1,3 +1,4 @@
+
 import React, { useState } from 'react';
 import { FormattedMessage } from 'react-intl';
 import { Link } from 'gatsby';
@@ -95,7 +96,6 @@ const IndexPage = () => {
             </p>
           </FooterSection>
         </MainWrapper>
-        <LanguageSwitcher languageConfig={languageConfig} />
       </React.Fragment>
     </LanguageProvider>
   );
