@@ -50,7 +50,7 @@ const IndexPage = () => {
         <Seo title="title" />
         <MainWrapper>
           <LogoImageContainer>
-            <Link to={'/three'}>
+            <Link to={'/'}>
               <img src={LogoImage} alt="logo" />
             </Link>
           </LogoImageContainer>
