@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import { FormattedMessage } from 'react-intl';
 import { Link } from 'gatsby';
 import LanguageProvider from '@deadline/common/LanguageSwitcher/context/language.provider';
+import LanguageSwitcher from '@deadline/common/LanguageSwitcher';
 import languageConfig from '@deadline/common/LanguageSwitcher/config';
 import NormalClock from '@deadline/components/NormalClock/NormalClock';
 import MainWrapper, {
