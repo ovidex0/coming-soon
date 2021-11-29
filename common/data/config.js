@@ -1,11 +1,11 @@
 module.exports = {
-  title: 'Deadline',
+  title: 'Opulence - Generating wealth through building DeFi infrustructure.',
   logo: '',
-  url: 'https://redq.inc',
+  url: 'https://opulence.network',
   favicon: '../common/static/favicon/favicon.png',
   cover: '',
-  legalName: 'RedQ Inc',
-  description: 'React Gatsby Coming soon template',
+  legalName: 'Opulence',
+  description: 'Generating wealth through building DeFi infrustructure',
   socialLinks: {
     twitter: '',
     github: '',
@@ -30,6 +30,6 @@ module.exports = {
     email: '',
     phone: '',
   },
-  foundingDate: '2019',
+  foundingDate: '2021',
   googleVerification: 'xxx',
 };
